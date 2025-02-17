@@ -6,7 +6,7 @@ require (
 	github.com/go-git/go-git/v5 v5.13.2
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/magefile/mage v1.15.0
-	github.com/spf13/cobra v1.9.0
+	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.19.0
 	github.com/taylormonacelli/goldbug v0.0.6
 	golang.org/x/net v0.35.0
