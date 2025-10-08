@@ -11,7 +11,7 @@ require (
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/viper v1.21.0
 	github.com/taylormonacelli/goldbug v0.0.6
-	golang.org/x/net v0.44.0
+	golang.org/x/net v0.45.0
 )
 
 require (
