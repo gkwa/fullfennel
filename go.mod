@@ -6,13 +6,13 @@ toolchain go1.26.0
 
 require (
 	github.com/go-git/go-git/v5 v5.17.0
-	github.com/labstack/echo/v5 v5.0.4
+	github.com/labstack/echo/v4 v4.15.1
 	github.com/labstack/echo/v5 v5.0.4
 	github.com/magefile/mage v1.15.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	github.com/taylormonacelli/goldbug v0.0.6
-	golang.org/x/net v0.50.0
+	golang.org/x/net v0.51.0
 )
 
 require (
