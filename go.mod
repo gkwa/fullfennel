@@ -6,8 +6,8 @@ toolchain go1.26.4
 
 require (
 	github.com/go-git/go-git/v5 v5.19.1
-	github.com/labstack/echo/v5 v5.2.0
-	github.com/labstack/echo/v5 v5.2.0
+	github.com/labstack/echo/v4 v4.15.4
+	github.com/labstack/echo/v5 v5.2.1
 	github.com/magefile/mage v1.17.2
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
@@ -35,7 +35,7 @@ require (
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/labstack/gommon v0.5.0 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
-	github.com/mattn/go-colorable v0.1.14 // indirect
+	github.com/mattn/go-colorable v0.1.15 // indirect
 	github.com/mattn/go-isatty v0.0.22 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.4 // indirect
