@@ -2,11 +2,11 @@ module github.com/gkwa/fullfennel
 
 go 1.25.0
 
-toolchain go1.26.5
+toolchain go1.26.6
 
 require (
 	github.com/go-git/go-git/v5 v5.19.2
-	github.com/labstack/echo/v5 v5.3.1
+	github.com/labstack/echo/v4 v4.15.4
 	github.com/labstack/echo/v5 v5.3.1
 	github.com/magefile/mage v1.17.2
 	github.com/spf13/cobra v1.10.2
