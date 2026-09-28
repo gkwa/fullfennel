@@ -6,8 +6,8 @@ toolchain go1.27.1
 
 require (
 	github.com/go-git/go-git/v5 v5.19.2
-	github.com/labstack/echo/v5 v5.3.1
-	github.com/labstack/echo/v5 v5.3.1
+	github.com/labstack/echo/v4 v4.16.0
+	github.com/labstack/echo/v5 v5.4.0
 	github.com/magefile/mage v1.17.2
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
